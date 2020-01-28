@@ -44,7 +44,6 @@ class App:
 			self.save()
 
 	def getFileInfo(self, info):
-		l="mdlfkgogtkj"
 		split = info.count('/')
 
 		if info != '':
